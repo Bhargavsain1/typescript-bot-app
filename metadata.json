@@ -1,0 +1,5 @@
+{
+  "name": "Bots Planet Chat",
+  "description": "A sleek and modern chat application interface designed for interacting with various AI bots, featuring a clean layout with a user/bot list and a central chat window, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
